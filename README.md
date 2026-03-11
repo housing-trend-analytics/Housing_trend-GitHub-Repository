@@ -6,6 +6,8 @@ Live Demo on Vercel
 In this project for ABC Company, the goal is to address challenges in understanding the factors that influence house prices and sales trends. By analyzing comprehensive housing data—including total sales by years since renovation, house age distribution by structural features (bathrooms, bedrooms, and floors), and the impact of renovations on house age—the company aims to uncover key insights.
 
 Utilizing Tableau for this analysis, the objective is to visualize and interpret patterns in the housing market to inform strategic decisions, optimize pricing strategies, and enhance overall market competitiveness. Key stakeholders include real estate analysts, marketing teams, and company executives, all of whom will benefit from a deeper understanding of housing market dynamics.
+
+
 🎯 Project Objectives
 
 The primary objectives of this project are:
@@ -67,6 +69,8 @@ Field Renaming for Readability:
 📈 Data Visualizations (Scenarios)
 
 The following key visual scenarios were created in Tableau:
+
+
 Scenario 1: Overall Data Overview
 
 This visualization presents a summary of the dataset, showing the count of transformed housing data records, the average sales price, and the total area of houses from the basement in square feet. This overview provides a quick snapshot of the dataset's scale and key metrics, offering stakeholders a foundational understanding of the data being analyzed.
@@ -103,3 +107,4 @@ Potential enhancements for this project include:
     Advanced geographic mapping of housing prices.
 
 📜 License: This project is for educational and analytical purposes.
+
